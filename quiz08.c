@@ -14,7 +14,7 @@ int main(void){
 
     int numCars = 0;
 
-    printf("How many cars in the inventory? ");
+    printf("How many cars in inventory (between 2 - 6)? ");
     scanf("%d", &numCars);
 
     // Part 3:  Dynamically Create Your Array Here
